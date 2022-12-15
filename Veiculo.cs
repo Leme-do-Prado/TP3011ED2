@@ -1,0 +1,3 @@
+public Veiculo{
+    int lotaçao;
+}
